@@ -81,8 +81,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',  # Specify the database engine
         'NAME': 'postgres',  # Replace with your actual database name
         'USER': 'postgres',  # Replace with your database username
-        'PASSWORD': 'j39342336i',  # Replace with your database password
-        'HOST': 'postgresql-rds-production-wordy-papaya-gvln.ca5z9zbxudjn.us-west-2.rds.amazonaws.com',  # Usually 'localhost', or specify the server address
+        'PASSWORD': '',  # Replace with your database password
+        'HOST': '',  # Usually 'localhost', or specify the server address
         'PORT': '5432',  # Standard PostgreSQL port
     }
 }
