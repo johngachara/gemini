@@ -1,9 +1,9 @@
 
-google-ai-generativelanguage==0.4.0
-
+Django @ file:///work/ci_py311/django_1676851927387/work
 google-generativeai==0.3.2
 
 psycopg2==2.9.9
 psycopg2-binary==2.9.9
+
 requests==2.31.0
-urllib3==2.1.0
+

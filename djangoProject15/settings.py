@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'postgres',  # Replace with your actual database name
         'USER': 'postgres',  # Replace with your database username
         'PASSWORD': 'j39342336i',  # Replace with your database password
-        'HOST': 'localhost',  # Usually 'localhost', or specify the server address
+        'HOST': 'postgresql-rds-production-wordy-papaya-gvln.ca5z9zbxudjn.us-west-2.rds.amazonaws.com',  # Usually 'localhost', or specify the server address
         'PORT': '5432',  # Standard PostgreSQL port
     }
 }
